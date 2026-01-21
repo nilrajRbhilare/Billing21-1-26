@@ -1,0 +1,59 @@
+{
+  "customers": [
+    {
+      "id": "18",
+      "name": "raj traders",
+      "displayName": "raj traders",
+      "companyName": "raj traders",
+      "email": "rajkumar@gmail.com",
+      "phone": "8976223312",
+      "workPhone": "8976223312",
+      "mobile": "",
+      "gstTreatment": "Registered Business - Regular",
+      "gstin": "27AAGCA4900Q1ZE",
+      "receivables": "0.00",
+      "avatar": "RA",
+      "pan": "ABCDE1234F",
+      "customerType": "business",
+      "status": "active",
+      "billingAddress": {
+        "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+        "city": "pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "411046"
+      },
+      "shippingAddress": {
+        "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+        "city": "pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "411046"
+      },
+      "currency": "INR",
+      "paymentTerms": "due_on_receipt",
+      "placeOfSupply": "27 - Maharashtra",
+      "taxPreference": "taxable",
+      "exemptionReason": "",
+      "portalStatus": "disabled",
+      "contactPersons": [
+        {
+          "salutation": "mr",
+          "firstName": "raj",
+          "lastName": "kumar",
+          "email": "raj@gmail.com",
+          "workPhone": "99991234",
+          "mobile": ""
+        }
+      ],
+      "communicationPreferences": {
+        "invoiceReminders": false,
+        "recurringInvoiceAutoEmail": false,
+        "paymentReceipts": false,
+        "portalNotifications": false
+      },
+      "createdAt": "2026-01-21T06:16:01.885Z"
+    }
+  ],
+  "nextCustomerId": 19
+}

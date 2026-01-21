@@ -1,0 +1,59 @@
+{
+  "triggers": [
+    {
+      "id": "e63b3d76-a355-4766-a961-e039c7374478",
+      "customerId": "6",
+      "recipients": [
+        "ganeshkale030303@gmail.com"
+      ],
+      "customSubject": "Account Updated - Cybaem Tech",
+      "customBody": "<p>Hi Ganesh kale,</p><p>Your customer profile has been updated.</p>",
+      "sendMode": "immediate",
+      "createdAt": "2026-01-19T04:27:31.860Z"
+    },
+    {
+      "id": "4cdad4bb-ec7a-4111-bd40-1a51a1c1ef24",
+      "customerId": "16",
+      "recipients": [
+        "shivamjagtap@gmail.com"
+      ],
+      "customSubject": "Welcome to Cybaem Tech",
+      "customBody": "<p>Hi Jagtap pvrt limited,</p><p>Your account has been successfully created.</p>",
+      "sendMode": "immediate",
+      "createdAt": "2026-01-20T05:26:47.654Z"
+    },
+    {
+      "id": "957fe3e5-09a6-4f7c-aa8b-a1087519ca1b",
+      "customerId": "16",
+      "recipients": [
+        "shivamjagtap@gmail.com"
+      ],
+      "customSubject": "Account Updated - Cybaem Tech",
+      "customBody": "<p>Hi Jagtap pvrt limited,</p><p>Your customer profile has been updated.</p>",
+      "sendMode": "immediate",
+      "createdAt": "2026-01-20T05:27:40.136Z"
+    },
+    {
+      "id": "ce95462b-458c-476a-9498-726d2d7d5edf",
+      "customerId": "17",
+      "recipients": [
+        "shivamjagtap@gmail.com"
+      ],
+      "customSubject": "Welcome to Cybaem Tech",
+      "customBody": "<p>Hi Jagtap pvrt limited,</p><p>Your account has been successfully created.</p>",
+      "sendMode": "immediate",
+      "createdAt": "2026-01-20T07:14:55.880Z"
+    },
+    {
+      "id": "89a471ae-46c9-428b-b6af-77786c29f21f",
+      "customerId": "18",
+      "recipients": [
+        "rajkumar@gmail.com"
+      ],
+      "customSubject": "Welcome to Cybaem Tech",
+      "customBody": "<p>Hi raj traders,</p><p>Your account has been successfully created.</p>",
+      "sendMode": "immediate",
+      "createdAt": "2026-01-21T06:16:01.890Z"
+    }
+  ]
+}

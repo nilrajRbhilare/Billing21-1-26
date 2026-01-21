@@ -1,0 +1,140 @@
+{
+  "paymentsReceived": [
+    {
+      "id": "pr-1768907071669",
+      "organizationId": "1",
+      "paymentNumber": "69",
+      "date": "2026-01-20",
+      "customerId": "17",
+      "customerName": "Jagtap pvrt limited",
+      "customerEmail": "shivamjagtap@gmail.com",
+      "mode": "Bank Transfer",
+      "depositTo": "Petty Cash",
+      "referenceNumber": "",
+      "amount": 340000,
+      "unusedAmount": 100640,
+      "notes": "",
+      "sendThankYou": false,
+      "status": "PAID",
+      "placeOfSupply": "27 - Maharashtra",
+      "invoices": [
+        {
+          "invoiceId": "1768906750233",
+          "invoiceNumber": "INV-00049",
+          "invoiceDate": "2026-01-20",
+          "invoiceAmount": 3360,
+          "balanceDue": 3360,
+          "paymentAmount": 3360,
+          "paymentReceivedDate": "2026-01-20"
+        },
+        {
+          "invoiceId": "1768906699604",
+          "invoiceNumber": "INV-00048",
+          "invoiceDate": "2026-01-20",
+          "invoiceAmount": 236000,
+          "balanceDue": 236000,
+          "paymentAmount": 236000,
+          "paymentReceivedDate": "2026-01-20"
+        }
+      ],
+      "customerSnapshot": {
+        "customerId": "17",
+        "customerName": "Jagtap pvrt limited",
+        "displayName": "Jagtap pvrt limited",
+        "companyName": "Jagtap pvrt limited",
+        "email": "shivamjagtap@gmail.com",
+        "phone": "8379090024",
+        "billingAddress": {
+          "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+          "city": "pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "pincode": "411046"
+        },
+        "shippingAddress": {
+          "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+          "city": "pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "pincode": "411046"
+        },
+        "gstTreatment": "Registered Business - Regular",
+        "taxPreference": "taxable",
+        "gstin": "27AAGCA4900Q1ZE",
+        "placeOfSupply": "27 - Maharashtra",
+        "pan": "ABCDE1234F",
+        "exemptionReason": "",
+        "currency": "INR",
+        "paymentTerms": "net_15",
+        "priceList": "",
+        "snapshotDate": "2026-01-20T11:00:30.263Z"
+      },
+      "amountInWords": "Indian Rupee Three Lakh Forty Thousand Only",
+      "createdAt": "2026-01-20T11:04:31.669Z"
+    },
+    {
+      "id": "pr-1768976544435",
+      "organizationId": "1",
+      "paymentNumber": "70",
+      "date": "2026-01-21",
+      "customerId": "18",
+      "customerName": "raj traders",
+      "customerEmail": "rajkumar@gmail.com",
+      "mode": "Bank Transfer",
+      "depositTo": "Petty Cash",
+      "referenceNumber": "",
+      "amount": 100000,
+      "unusedAmount": 29200,
+      "notes": "",
+      "sendThankYou": false,
+      "status": "PAID",
+      "placeOfSupply": "27 - Maharashtra",
+      "invoices": [
+        {
+          "invoiceId": "1768976457144",
+          "invoiceNumber": "INV-00051",
+          "invoiceDate": "2026-01-21",
+          "invoiceAmount": 70800,
+          "balanceDue": 70800,
+          "paymentAmount": 70800,
+          "paymentReceivedDate": "2026-01-21"
+        }
+      ],
+      "customerSnapshot": {
+        "customerId": "18",
+        "customerName": "raj traders",
+        "displayName": "raj traders",
+        "companyName": "raj traders",
+        "email": "rajkumar@gmail.com",
+        "phone": "8976223312",
+        "billingAddress": {
+          "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+          "city": "pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "pincode": "411046"
+        },
+        "shippingAddress": {
+          "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+          "city": "pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "pincode": "411046"
+        },
+        "gstTreatment": "Registered Business - Regular",
+        "taxPreference": "taxable",
+        "gstin": "27AAGCA4900Q1ZE",
+        "placeOfSupply": "27 - Maharashtra",
+        "pan": "ABCDE1234F",
+        "exemptionReason": "",
+        "currency": "INR",
+        "paymentTerms": "due_on_receipt",
+        "priceList": "",
+        "snapshotDate": "2026-01-21T06:21:24.443Z"
+      },
+      "amountInWords": "Indian Rupee One Lakh Only",
+      "createdAt": "2026-01-21T06:22:24.435Z"
+    }
+  ],
+  "nextPaymentNumber": 71
+}

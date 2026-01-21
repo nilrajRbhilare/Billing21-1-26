@@ -1,0 +1,86 @@
+{
+  "invoices": [
+    {
+      "id": "1768976457144",
+      "organizationId": "1",
+      "invoiceNumber": "INV-00051",
+      "referenceNumber": "",
+      "date": "2026-01-21",
+      "dueDate": "2026-02-20",
+      "customerId": "18",
+      "customerName": "raj traders",
+      "billingAddress": {
+        "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+        "city": "pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "411046"
+      },
+      "shippingAddress": {
+        "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+        "city": "pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "411046"
+      },
+      "salesperson": "Sujay",
+      "placeOfSupply": "27 - Maharashtra",
+      "paymentTerms": "Net 30",
+      "items": [
+        {
+          "id": "0.496464414274117",
+          "itemId": "0.496464414274117",
+          "name": "mouse",
+          "description": "best price",
+          "quantity": 30,
+          "unit": "pcs",
+          "rate": 2000,
+          "discount": 0,
+          "discountType": "percentage",
+          "tax": 10800,
+          "taxName": "GST18",
+          "amount": 70800
+        }
+      ],
+      "subTotal": 60000,
+      "shippingCharges": 0,
+      "cgst": 5400,
+      "sgst": 5400,
+      "igst": 0,
+      "adjustment": 0,
+      "total": 70800,
+      "amountPaid": 70800,
+      "balanceDue": 0,
+      "customerNotes": "",
+      "termsAndConditions": "",
+      "status": "PAID",
+      "sourceType": null,
+      "sourceId": null,
+      "sourceNumber": null,
+      "pdfTemplate": "Standard Template",
+      "createdAt": "2026-01-21T06:20:57.144Z",
+      "updatedAt": "2026-01-21T06:22:24.435Z",
+      "createdBy": "Admin User",
+      "payments": [
+        {
+          "id": "pr-1768976544435",
+          "date": "2026-01-21",
+          "amount": 70800,
+          "paymentMode": "Bank Transfer",
+          "reference": "",
+          "notes": ""
+        }
+      ],
+      "activityLogs": [
+        {
+          "id": "1",
+          "timestamp": "2026-01-21T06:20:57.144Z",
+          "action": "created",
+          "description": "Invoice created for ₹70,800",
+          "user": "Admin User"
+        }
+      ]
+    }
+  ],
+  "nextInvoiceNumber": 52
+}

@@ -1,0 +1,69 @@
+{
+  "creditNotes": [
+    {
+      "id": "1768900686549",
+      "creditNoteNumber": "CN-00008",
+      "referenceNumber": "",
+      "date": "2026-01-20",
+      "customerId": "17",
+      "customerName": "Jagtap pvrt limited",
+      "invoiceId": "",
+      "invoiceNumber": "",
+      "reason": "post_sale_discount",
+      "salesperson": "",
+      "subject": "",
+      "billingAddress": {
+        "street": "flat No. 605, B wing ,Ganesh Galaxy, Dattangar, Aambegaoun, pune.",
+        "city": "pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "411046"
+      },
+      "gstin": "27AAGCA4900Q1ZE",
+      "placeOfSupply": "27 - Maharashtra",
+      "items": [
+        {
+          "id": "1",
+          "itemId": "1768892642231",
+          "name": "mouse",
+          "description": "best price",
+          "account": "sales",
+          "quantity": 1,
+          "rate": 2000,
+          "discount": 0,
+          "discountType": "percentage",
+          "tax": 0,
+          "taxName": "none",
+          "amount": 2000
+        }
+      ],
+      "subTotal": 2000,
+      "shippingCharges": 0,
+      "tdsType": "TDS",
+      "tdsAmount": 0,
+      "cgst": 0,
+      "sgst": 0,
+      "igst": 0,
+      "adjustment": 0,
+      "total": 2000,
+      "creditsRemaining": 2000,
+      "customerNotes": "",
+      "termsAndConditions": "",
+      "status": "OPEN",
+      "pdfTemplate": "Standard Template",
+      "createdAt": "2026-01-20T09:18:06.549Z",
+      "updatedAt": "2026-01-20T09:18:06.549Z",
+      "createdBy": "Admin User",
+      "activityLogs": [
+        {
+          "id": "1",
+          "timestamp": "2026-01-20T09:18:06.549Z",
+          "action": "created",
+          "description": "Credit Note created for ₹2,000",
+          "user": "Admin User"
+        }
+      ]
+    }
+  ],
+  "nextCreditNoteNumber": 9
+}
